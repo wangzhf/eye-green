@@ -1,0 +1,22 @@
+{
+    "name": "eye-green",
+    "displayName": "eye-green",
+    "description": "eye-green",
+    "version": "0.0.1",
+    "publisher": "wangzhf",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "eye-green",
+                "uiTheme": "vs",
+                "path": "./themes/eye-green-color-theme.json"
+            }
+        ]
+    }
+}
